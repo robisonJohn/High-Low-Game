@@ -1,0 +1,19 @@
+{
+  "name": "high-low-game",
+  "version": "1.0.0",
+  "description": "## Getting Started",
+  "main": "card_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/sei-nyc-cheetahs/high-low-game"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
